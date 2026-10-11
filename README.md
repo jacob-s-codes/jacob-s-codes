@@ -5,7 +5,7 @@ You can learn more about me <a href="https://www.jacobshaul.com/" target="_blank
 
 Tech stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,py,tailwind,js,ts,latex,html,java,nodejs,vim,neovim,figma" />
+  <img src="https://skillicons.dev/icons?i=git,py,html,css,tailwind,js,ts,latex,java,nodejs,vim,neovim,figma" />
 </p>
 
 <!--
