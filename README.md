@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi!
+My name is Jacob. I'm a full-stack developer studying CS @UC Berkeley and an undergrad researcher @ACE Lab. 
+
+You can learn more about me <a href="https://www.jacobshaul.com/" target="_blank">here</a>.
+
+Tech stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,py,tailwind,js,ts,latex,html,java,nodejs,vim,neovim,figma" />
+</p>
 
 <!--
 **jacob-s-codes/jacob-s-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
