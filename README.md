@@ -1,4 +1,4 @@
-## Hi!
+## Hi! 👋
 My name is Jacob. I'm a full-stack developer studying CS @UC Berkeley and an undergrad researcher @ACE Lab. 
 
 You can learn more about me <a href="https://www.jacobshaul.com/" target="_blank">here</a>.
